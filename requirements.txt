@@ -116,7 +116,7 @@ sortedcontainers==2.4.0
 sympy==1.12
 tenacity==8.2.3
 threadpoolctl==3.3.0
-tldextract==5.1.1
+tldextract==5.1.2
 tokenizers==0.15.2
 toloka-kit==1.2.2
 tomli==2.0.1
