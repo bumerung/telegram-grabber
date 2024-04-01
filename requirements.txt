@@ -78,7 +78,7 @@ pluggy==1.4.0
 pre-commit==3.6.2
 Protego==0.3.0
 pyasn1==0.5.1
-pyasn1-modules==0.3.0
+pyasn1-modules==0.4.0
 pybind11==2.11.1
 pycodestyle==2.11.1
 pycparser==2.21
