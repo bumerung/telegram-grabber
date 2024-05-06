@@ -121,7 +121,7 @@ tokenizers==0.15.2
 toloka-kit==1.2.2
 tomli==2.0.1
 torch==2.2.1
-tqdm==4.66.2
+tqdm==4.66.4
 transformers==4.38.2
 Twisted==24.3.0
 typing_extensions==4.10.0
